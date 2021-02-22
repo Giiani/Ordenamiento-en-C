@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551984191 source:d:\giani\utn\1er año\informatica i\pruebas final\practicaordenacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
